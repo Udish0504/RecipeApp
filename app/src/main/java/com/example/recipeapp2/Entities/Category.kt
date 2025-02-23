@@ -1,4 +1,4 @@
-package com.example.recipeapp2
+package com.example.recipeapp2.Entities
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
